@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Dark Theme Colors -->
+    <color name="primary">#D0BCFF</color>
+    <color name="onPrimary">#381E72</color>
+    <color name="primaryContainer">#4F378B</color>
+    <color name="onPrimaryContainer">#EADDFF</color>
+
+    <color name="secondary">#CCC2DC</color>
+    <color name="onSecondary">#332D41</color>
+    <color name="secondaryContainer">#4A4458</color>
+    <color name="onSecondaryContainer">#E8DEF8</color>
+
+    <color name="tertiary">#EFB8C8</color>
+    <color name="onTertiary">#492532</color>
+    <color name="tertiaryContainer">#633B48</color>
+    <color name="onTertiaryContainer">#FFD8E4</color>
+
+    <color name="error">#F2B8B5</color>
+    <color name="onError">#601410</color>
+    <color name="errorContainer">#8C1D18</color>
+    <color name="onErrorContainer">#F9DEDC</color>
+
+    <color name="background">#1C1B1F</color>
+    <color name="onBackground">#E6E1E5</color>
+    <color name="surface">#1C1B1F</color>
+    <color name="onSurface">#E6E1E5</color>
+
+    <color name="surfaceVariant">#49454F</color>
+    <color name="onSurfaceVariant">#CAC4D0</color>
+    <color name="outline">#938F99</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Glassmorphism & Gradients -->
+    <color name="glass_white">#1AFFFFFF</color>
+    <color name="glass_border">#33FFFFFF</color>
+
+    <color name="bg_top">#22194D</color>
+    <color name="bg_mid">#161B3D</color>
+    <color name="bg_bottom">#0F172A</color>
+
+    <color name="nav_top">#1E1B4B</color>
+    <color name="nav_bottom">#111827</color>
+    <color name="nav_background">#1E293B</color>
+
+    <color name="glass_search">#2AFFFFFF</color>
+    <color name="badge_background">#33FFFFFF</color>
+
+    <color name="cat_length_start">#FF5F6D</color>
+    <color name="cat_length_end">#FFC371</color>
+    <color name="cat_weight_start">#2193b0</color>
+    <color name="cat_weight_end">#6dd5ed</color>
+    <color name="cat_temp_start">#ee9ca7</color>
+    <color name="cat_temp_end">#ffdde1</color>
+    <color name="cat_area_start">#00b09b</color>
+    <color name="cat_area_end">#96c93d</color>
+    <color name="cat_volume_start">#7474BF</color>
+    <color name="cat_volume_end">#348AC7</color>
+    <color name="cat_data_start">#f80759</color>
+    <color name="cat_data_end">#bc4e9c</color>
+    <color name="cat_pressure_start">#000428</color>
+    <color name="cat_pressure_end">#004e92</color>
+    <color name="cat_energy_start">#F2994A</color>
+    <color name="cat_energy_end">#F2C94C</color>
+    <color name="cat_power_start">#EB3349</color>
+    <color name="cat_power_end">#F45C43</color>
+    <color name="cat_angle_start">#11998e</color>
+    <color name="cat_angle_end">#38ef7d</color>
+    <color name="cat_fuel_start">#FF9966</color>
+    <color name="cat_fuel_end">#FF5E62</color>
+    <color name="cat_freq_start">#00F2FE</color>
+    <color name="cat_freq_end">#4FACFE</color>
+    <color name="cat_force_start">#43E97B</color>
+    <color name="cat_force_end">#38F9D7</color>
+    <color name="cat_density_start">#7028e4</color>
+    <color name="cat_density_end">#e5b2ca</color>
+    <color name="cat_cooking_start">#f093fb</color>
+    <color name="cat_cooking_end">#f5576c</color>
+</resources>

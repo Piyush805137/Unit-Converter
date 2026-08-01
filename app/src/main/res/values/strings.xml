@@ -1,0 +1,360 @@
+<resources>
+    <string name="app_name">Unit Converter Pro</string>
+    <string name="greeting_morning">Good Morning</string>
+    <string name="greeting_afternoon">Good Afternoon</string>
+    <string name="greeting_evening">Good Evening</string>
+    <string name="search_hint">Search units or categories&#8230;</string>
+
+    <!-- Categories -->
+    <string name="cat_length">Length</string>
+    <string name="cat_weight">Weight</string>
+    <string name="cat_temperature">Temperature</string>
+    <string name="cat_area">Area</string>
+    <string name="cat_volume">Volume</string>
+    <string name="cat_speed">Speed</string>
+    <string name="cat_time">Time</string>
+    <string name="cat_data">Data Storage</string>
+    <string name="cat_pressure">Pressure</string>
+    <string name="cat_energy">Energy</string>
+    <string name="cat_power">Power</string>
+    <string name="cat_angle">Angle</string>
+    <string name="cat_fuel">Fuel Economy</string>
+    <string name="cat_frequency">Frequency</string>
+    <string name="cat_force">Force</string>
+    <string name="cat_density">Density</string>
+    <string name="cat_currency">Currency</string>
+    <string name="cat_cooking">Cooking</string>
+    <string name="cat_typography">Typography</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Length Units -->
+    <string-array name="units_length">
+        <item>Millimeter (mm)</item>
+        <item>Centimeter (cm)</item>
+        <item>Meter (m)</item>
+        <item>Kilometer (km)</item>
+        <item>Inch (in)</item>
+        <item>Foot (ft)</item>
+        <item>Yard (yd)</item>
+        <item>Mile (mi)</item>
+        <item>Nautical Mile (nmi)</item>
+        <item>Micrometer (µm)</item>
+        <item>Nanometer (nm)</item>
+        <item>Decimeter (dm)</item>
+        <item>Hectometer (hm)</item>
+        <item>Furlong</item>
+        <item>Chain</item>
+    </string-array>
+
+    <!-- Weight Units -->
+    <string-array name="units_weight">
+        <item>Milligram (mg)</item>
+        <item>Gram (g)</item>
+        <item>Kilogram (kg)</item>
+        <item>Metric Ton (t)</item>
+        <item>Pound (lb)</item>
+        <item>Ounce (oz)</item>
+        <item>Stone (st)</item>
+        <item>Carat (ct)</item>
+        <item>Quintal (q)</item>
+        <item>Microgram (µg)</item>
+        <item>Long Ton</item>
+        <item>Short Ton</item>
+        <item>Dram</item>
+        <item>Grain</item>
+        <item>Slug</item>
+    </string-array>
+
+    <!-- Temperature Units -->
+    <string-array name="units_temperature">
+        <item>Celsius (°C)</item>
+        <item>Fahrenheit (°F)</item>
+        <item>Kelvin (K)</item>
+        <item>Rankine (°Ra)</item>
+        <item>Réaumur (°Ré)</item>
+    </string-array>
+
+    <!-- Area Units -->
+    <string-array name="units_area">
+        <item>Square Millimeter (mm²)</item>
+        <item>Square Centimeter (cm²)</item>
+        <item>Square Meter (m²)</item>
+        <item>Square Kilometer (km²)</item>
+        <item>Square Inch (in²)</item>
+        <item>Square Foot (ft²)</item>
+        <item>Square Yard (yd²)</item>
+        <item>Square Mile (mi²)</item>
+        <item>Acre</item>
+        <item>Hectare</item>
+        <item>Are</item>
+        <item>Barn</item>
+        <item>Square Rod</item>
+        <item>Square Perch</item>
+        <item>Square Townships</item>
+    </string-array>
+
+    <!-- Volume Units -->
+    <string-array name="units_volume">
+        <item>Milliliter (ml)</item>
+        <item>Liter (l)</item>
+        <item>Cubic Meter (m³)</item>
+        <item>Cubic Inch (in³)</item>
+        <item>Cubic Foot (ft³)</item>
+        <item>Cubic Yard (yd³)</item>
+        <item>Gallon (US)</item>
+        <item>Gallon (UK)</item>
+        <item>Quart (US)</item>
+        <item>Pint (US)</item>
+        <item>Cup (Metric)</item>
+        <item>Fluid Ounce (US)</item>
+        <item>Tablespoon (Metric)</item>
+        <item>Teaspoon (Metric)</item>
+        <item>Oil Barrel</item>
+    </string-array>
+
+    <!-- Data Storage Units -->
+    <string-array name="units_data">
+        <item>Bit (b)</item>
+        <item>Byte (B)</item>
+        <item>Kilobit (kb)</item>
+        <item>Kilobyte (KB)</item>
+        <item>Megabit (mb)</item>
+        <item>Megabyte (MB)</item>
+        <item>Gigabit (gb)</item>
+        <item>Gigabyte (GB)</item>
+        <item>Terabit (tb)</item>
+        <item>Terabyte (TB)</item>
+        <item>Petabyte (PB)</item>
+        <item>Exabyte (EB)</item>
+        <item>Zettabyte (ZB)</item>
+        <item>Yottabyte (YB)</item>
+        <item>Nibble</item>
+    </string-array>
+
+    <!-- Time Units -->
+    <string-array name="units_time">
+        <item>Millisecond (ms)</item>
+        <item>Second (s)</item>
+        <item>Minute (min)</item>
+        <item>Hour (h)</item>
+        <item>Day (d)</item>
+        <item>Week (wk)</item>
+        <item>Month (mo)</item>
+        <item>Year (yr)</item>
+        <item>Decade</item>
+        <item>Century</item>
+        <item>Microsecond (µs)</item>
+        <item>Nanosecond (ns)</item>
+        <item>Fortnight</item>
+        <item>Leap Year</item>
+        <item>Millennium</item>
+    </string-array>
+
+    <!-- Speed Units -->
+    <string-array name="units_speed">
+        <item>Meters per second (m/s)</item>
+        <item>Kilometers per hour (km/h)</item>
+        <item>Miles per hour (mph)</item>
+        <item>Knot (kn)</item>
+        <item>Mach</item>
+        <item>Feet per second (fps)</item>
+        <item>Inch per second</item>
+        <item>Kilometer per second</item>
+        <item>Mile per second</item>
+        <item>Light Speed</item>
+        <item>Sound Speed</item>
+        <item>Yard per second</item>
+        <item>Millimeter per second</item>
+        <item>Centimeter per second</item>
+        <item>Hectometer per hour</item>
+    </string-array>
+
+    <!-- Pressure Units -->
+    <string-array name="units_pressure">
+        <item>Pascal (Pa)</item>
+        <item>Kilopascal (kPa)</item>
+        <item>Bar</item>
+        <item>Millibar (mbar)</item>
+        <item>PSI (Pound per sq in)</item>
+        <item>Atmosphere (atm)</item>
+        <item>Torr (mmHg)</item>
+        <item>Inches of Mercury (inHg)</item>
+        <item>Megapascal (MPa)</item>
+        <item>Newton per sq meter</item>
+        <item>Kilopascal</item>
+        <item>Hectopascal (hPa)</item>
+        <item>Barye (ba)</item>
+        <item>Standard Atmosphere</item>
+        <item>Technical Atmosphere</item>
+    </string-array>
+
+    <!-- Energy Units -->
+    <string-array name="units_energy">
+        <item>Joule (J)</item>
+        <item>Kilojoule (kJ)</item>
+        <item>Calorie (cal)</item>
+        <item>Kilocalorie (kcal)</item>
+        <item>Watt-hour (Wh)</item>
+        <item>Kilowatt-hour (kWh)</item>
+        <item>Electronvolt (eV)</item>
+        <item>British Thermal Unit (BTU)</item>
+        <item>US Therm</item>
+        <item>Foot-pound</item>
+        <item>Gram calorie</item>
+        <item>Mega joule</item>
+        <item>Giga joule</item>
+        <item>Newton meter</item>
+        <item>Erg</item>
+    </string-array>
+
+    <!-- Power Units -->
+    <string-array name="units_power">
+        <item>Watt (W)</item>
+        <item>Kilowatt (kW)</item>
+        <item>Megawatt (MW)</item>
+        <item>Horsepower (hp)</item>
+        <item>Milliwatt (mW)</item>
+        <item>Gigawatt (GW)</item>
+        <item>Calorie per second</item>
+        <item>BTU per hour</item>
+        <item>Foot-pound per second</item>
+        <item>Kilocalorie per hour</item>
+        <item>Joule per second</item>
+        <item>Erg per second</item>
+        <item>Kilogram-meter per second</item>
+        <item>Metric horsepower</item>
+        <item>Mechanical horsepower</item>
+    </string-array>
+
+    <!-- Angle Units -->
+    <string-array name="units_angle">
+        <item>Degree (°)</item>
+        <item>Radian (rad)</item>
+        <item>Gradian (grad)</item>
+        <item>Minute of arc</item>
+        <item>Second of arc</item>
+        <item>Circle</item>
+        <item>Turn</item>
+        <item>Quadrant</item>
+        <item>Sextant</item>
+        <item>Octant</item>
+        <item>Sign</item>
+        <item>Mil (NATO)</item>
+        <item>Angular mil</item>
+        <item>Point</item>
+        <item>Hour angle</item>
+    </string-array>
+
+    <!-- Fuel Economy Units -->
+    <string-array name="units_fuel">
+        <item>Kilometers per Liter (km/L)</item>
+        <item>Liters per 100km (L/100km)</item>
+        <item>Miles per Gallon (US) (mpg)</item>
+        <item>Miles per Gallon (UK) (mpg)</item>
+        <item>Miles per Liter</item>
+        <item>Gallons per 100 Miles</item>
+        <item>Kilometers per Gallon (US)</item>
+        <item>Kilometers per Gallon (UK)</item>
+        <item>Nautical Miles per Gallon</item>
+        <item>Meters per Liter</item>
+        <item>Liters per Kilometer</item>
+        <item>Liters per 10 Miles</item>
+        <item>Gallons per Mile</item>
+        <item>Imperial Gallons per 100 Miles</item>
+        <item>Liters per Nautical Mile</item>
+    </string-array>
+
+    <!-- Frequency Units -->
+    <string-array name="units_frequency">
+        <item>Hertz (Hz)</item>
+        <item>Kilohertz (kHz)</item>
+        <item>Megahertz (MHz)</item>
+        <item>Gigahertz (GHz)</item>
+        <item>Terahertz (THz)</item>
+        <item>Millihertz (mHz)</item>
+        <item>Microhertz (µHz)</item>
+        <item>Nanohertz (nHz)</item>
+        <item>Revolution per Minute (RPM)</item>
+        <item>Revolution per Second (RPS)</item>
+        <item>Cycle per second</item>
+        <item>Degree per second</item>
+        <item>Radian per second</item>
+        <item>Degree per minute</item>
+        <item>Radian per minute</item>
+    </string-array>
+
+    <!-- Force Units -->
+    <string-array name="units_force">
+        <item>Newton (N)</item>
+        <item>Kilonewton (kN)</item>
+        <item>Meganewton (MN)</item>
+        <item>Pound-force (lbf)</item>
+        <item>Kilogram-force (kgf)</item>
+        <item>Dyne (dyn)</item>
+        <item>Ounce-force (ozf)</item>
+        <item>Ton-force (metric)</item>
+        <item>Ton-force (US short)</item>
+        <item>Ton-force (UK long)</item>
+        <item>Kip</item>
+        <item>Gram-force</item>
+        <item>Millinewton</item>
+        <item>Sthene</item>
+        <item>Poundal</item>
+    </string-array>
+
+    <!-- Density Units -->
+    <string-array name="units_density">
+        <item>Kilogram per cubic meter (kg/m³)</item>
+        <item>Gram per cubic centimeter (g/cm³)</item>
+        <item>Pound per cubic foot (lb/ft³)</item>
+        <item>Pound per cubic inch (lb/in³)</item>
+        <item>Ounce per cubic inch (oz/in³)</item>
+        <item>Kilogram per cubic decimeter</item>
+        <item>Gram per milliliter</item>
+        <item>Gram per liter</item>
+        <item>Pound per US gallon</item>
+        <item>Pound per UK gallon</item>
+        <item>Ounce per US gallon</item>
+        <item>Ounce per UK gallon</item>
+        <item>Slug per cubic foot</item>
+        <item>Long ton per cubic yard</item>
+        <item>Short ton per cubic yard</item>
+    </string-array>
+
+    <!-- Cooking Units -->
+    <string-array name="units_cooking">
+        <item>Teaspoon (Metric)</item>
+        <item>Tablespoon (Metric)</item>
+        <item>Cup (Metric)</item>
+        <item>Milliliter (ml)</item>
+        <item>Liter (l)</item>
+        <item>Fluid Ounce (US)</item>
+        <item>Pint (US)</item>
+        <item>Quart (US)</item>
+        <item>Gallon (US)</item>
+        <item>Stick of Butter</item>
+        <item>Pinch</item>
+        <item>Dash</item>
+        <item>Drop</item>
+        <item>Jigger</item>
+        <item>Gill (US)</item>
+    </string-array>
+
+    <!-- UI Labels -->
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="result">Result</string>
+    <string name="swap">Swap</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="reset">Reset</string>
+    <string name="history_cleared">History cleared</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+</resources>
